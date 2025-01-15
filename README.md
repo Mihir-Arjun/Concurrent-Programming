@@ -1,2 +1,2 @@
 # Concurrent-Programming
-This is a repository of projects that I have previously worked on to help me to understand concurrent programming principles
+Computer science courses mostly deal with sequential programs. This repository looks at the fundamentals of concurrency; what it means, how it can be exploited, and what facilities are available to determine program correctness. Concurrent systems are designed, analysed and implemented.
